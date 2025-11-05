@@ -1,4 +1,5 @@
 # Diabetes-Nutrition-Glycemic-Control-Dashboard
+![Dashboard Preview] (https://github.com/shubh6AM/Diabetes-Nutrition-Glycemic-Control-Dashboard/blob/1f5b3ef47dd46393d7c6039c3ec414ecfca1b30e/Non-veg_Diabetes%20Nutrition%20%26%20Glycemic%20Control%20Dashboard.png)
 **Empowering Healthier Choices with Data-Driven Meal Planning**
 
 *Interactive Power BI Dashboard | Real-Time Veg/Non-Veg Switch | GI < 55 Target*
