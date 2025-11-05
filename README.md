@@ -1,6 +1,6 @@
 # Diabetes-Nutrition-Glycemic-Control-Dashboard
 ![Dashboard Preview](<img width="1299" height="733" alt="Image" src="https://github.com/user-attachments/assets/6d0a1c83-5afd-478a-9a4e-f132df4028f9" />)
-(<img width="1298" height="732" alt="Image" src="https://github.com/user-attachments/assets/36ddd7f6-e9cd-4074-ae0d-635916d00ad4" />)
+![Dashboard Preview](<img width="1298" height="732" alt="Image" src="https://github.com/user-attachments/assets/36ddd7f6-e9cd-4074-ae0d-635916d00ad4" />)
 **Empowering Healthier Choices with Data-Driven Meal Planning**
 
 *Interactive Power BI Dashboard | Real-Time Veg/Non-Veg Switch | GI < 55 Target*
